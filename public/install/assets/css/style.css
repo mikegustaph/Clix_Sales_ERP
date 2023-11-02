@@ -1,0 +1,99 @@
+body {
+    background-color: #deead3;
+}
+
+img {
+    border-width: 0;
+}
+
+.theme-color {
+    color: #7c5cc4;
+}
+
+a { color: #7c5cc4; }
+
+.btn-primary {
+    background-color: #7c5cc4;
+    border-color: #7c5cc4;
+    border-radius: 0;
+    margin-top: 30px;
+}
+
+.btn-primary:hover {
+    background-color: #6545ad;
+    border-color: #6545ad;
+}
+
+.wrapper {
+    padding: 25px 50px;
+    background-color: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 5px 15px #bbb;
+    -webkit-box-shadow: 0px 5px 15px #bbb;
+    box-shadow: 0px 5px 15px #ddd;
+    overflow: auto;
+    margin: 100px auto;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    margin-bottom: 15px;
+    max-width: 200px;
+}
+
+header h1 {
+    color: #7c5cc4;
+    font-size: 24px;
+}
+
+footer {
+    bottom: 0;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 12px;
+    width: 100%;
+}
+
+.content {
+    padding: 0;
+}
+
+.pad-top-bot-50 {
+    padding: 50px 0;
+}
+
+.fa-check {
+    color: #0db815;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.fa-close {
+    color: #f42d12;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+label {
+    margin-top: 15px;
+}
+
+.help-block {
+    color: #999;
+    font-style: italic;
+}
+
+.modal-dialog {
+    max-width: 700px;
+}
+
+.modal-body img {
+    max-width: 100%;
+    height: auto;
+}
